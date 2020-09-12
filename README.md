@@ -1,6 +1,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yanshuolee/NTU-Hackathon.git/master)
-# Intelligent Shelf Recommender
-Make NTU Hackathon program
+Intelligent Shelf Recommender
+=========
+MakeNTU Hackathon program
+![](https://github.com/alanhc/NTU-Hackathon/blob/master/1.jpg)
 
 ## Motivation
 * Being hard to choose what you want.
